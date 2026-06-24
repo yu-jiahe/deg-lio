@@ -1,1 +1,1 @@
-##Lidar-IMU Odometry based on Curvature and Intensity in Degenerate Scene##
+**Lidar-IMU Odometry based on Curvature and Intensity in Degenerate Scene**
